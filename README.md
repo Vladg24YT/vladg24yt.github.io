@@ -8,7 +8,8 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or VladG24YT. I'm a be
 ## My Contributions to other projects
 - [Modelbench Russian translation](https://github.com/Nimikita/Modelbench/pull/1)
 - Sketchware Russian translation (Currently lost)
-## Contacts
+
+# Contacts
 - [ВКонтакте](https://vk.com/vladg24yt)
 - [ВКонтакте (группа)](https://vk.com/ru_vladg24yt)
 - [DeviantArt](https://www.deviantart.com/vladg24yt)
