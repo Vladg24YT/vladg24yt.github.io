@@ -1,8 +1,6 @@
 # About
 Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or VladG24YT. I'm a beginner programmist in Java 8 and Lua 5.2. Programming is my main free-time hobby.
 
-<p><i>By the way, I've never finished work right in time)</i></p>
-
 ## My Finished Projects
 - **Fibonacci Sequence calculator**
   - This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them.
