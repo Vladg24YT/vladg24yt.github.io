@@ -1,7 +1,7 @@
 # About
 Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a beginner coder in `Java 8` and `Lua 5.2`. Coding is my main free-time hobby.
 
-## My Finished Projects
+## My Projects
 - [**Fibonacci Sequence calculator (`C++`)**](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator)
   - This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them.
 - [**Conway's Game of Life (`Lua`)**](https://github.com/Vladg24YT/Game-Of-Life)
