@@ -3,7 +3,7 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 
 [![Vladg24YT's github stats](https://github-readme-stats.vercel.app/api?username=Vladg24YT&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Projects
+<h2>My Projects</h2>
 <table>
   <tr>
     <td align="center"><b>Title & Link</b></td>
@@ -21,7 +21,7 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
     <td>A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod</td>
 </table>
 
-## My Finished Translations
+<h2>My Finished Translations</h2>
 <table>
   <tr>
     <td align="center"><b>App</b></td>
@@ -39,9 +39,11 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
     <td>Top #2 as of June 2020, but requires total recreation due to several skipped major app updates, so no link is provided</td>
 </table>
 
-# Contacts
-- [ВКонтакте](https://vk.com/vladg24yt)
-- [ВКонтакте (группа)](https://vk.com/ru_vladg24yt)
-- [DeviantArt](https://www.deviantart.com/vladg24yt)
-- [Steam](https://steamcommunity.com/id/vladg24yt)
-- Discord Tag: VladG24 YT#7800
+<h1>Contacts</h1>
+<ul>
+  <li><a href="https://vk.com/vladg24yt">ВКонтакте</a></li>
+  <li><a href="https://vk.com/ru_vladg24y">ВКонтакте (группа)</a></li>
+  <li><a href="https://www.deviantart.com/vladg24yt">DeviantArt</a></li>
+  <li><a href="https://steamcommunity.com/id/vladg24yt">Steam</a></li>
+  <li>Discord Tag: VladG24 YT#7800</li>
+</ul>
