@@ -20,4 +20,4 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 - [ВКонтакте (группа)](https://vk.com/ru_vladg24yt)
 - [DeviantArt](https://www.deviantart.com/vladg24yt)
 - [Steam](https://steamcommunity.com/id/vladg24yt)
-- Discord Tag: VladG24 YT#7800
+- Discord Tag: `VladG24 YT#7800`
