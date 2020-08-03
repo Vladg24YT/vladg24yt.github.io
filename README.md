@@ -1,7 +1,7 @@
 # About
 Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a beginner self-taught coder in Java and Lua. I'm writing either development-related or gaming-related Java apps and Lua programs for OpenComputers as a hobby. Sometimes I translate apps.
 
-[![Vladg24YT's github stats](https://github-readme-stats.vercel.app/api?username=Vladg24YT&include_all_commits=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Vladg24YT's github stats](https://github-readme-stats.vercel.app/api?username=Vladg24YT&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Projects
 - [**Fibonacci Sequence calculator (`C++`)**](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator)
