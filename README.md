@@ -1,7 +1,10 @@
-# About
-Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a beginner self-taught coder in Java and Lua. I'm writing either development-related Java apps or Lua programs for OpenComputers. Sometimes I translate apps.
+<html>
+<head></head>
+<body>
+<h1>About</h1>
+<p>Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a beginner self-taught coder in Java and Lua. I'm writing either development-related Java apps or Lua programs for OpenComputers. Sometimes I translate apps.</p>
 
-[![Vladg24YT's github stats](https://github-readme-stats.vercel.app/api?username=Vladg24YT&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Vladg24YT's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Vladg24YT&include_all_commits=true&show_icons=true&theme=gruvbox"></a>
 
 <h2>My Projects</h2>
 <table>
@@ -47,3 +50,5 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
   <li><a href="https://steamcommunity.com/id/vladg24yt">Steam</a></li>
   <li>Discord Tag: VladG24 YT#7800</li>
 </ul>
+</body>
+</html>
