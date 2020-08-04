@@ -3,8 +3,6 @@
 
 A Lua implementation of Conway's Game of Life for OpenComputers 1.7.5. 
 
-
-
 ![Gosper Glider gun](https://github.com/VladG24YT/Game-Of-Life/blob/master/screenshots/gosper_glider_gun.png)
 
 ## Requirements
@@ -56,9 +54,9 @@ The game is not yet optimized, so I recommend you to change cells' states when t
 
 ## Licensing
 
-`MIT License
+**MIT License**
 
-Copyright (c) 2020 Vladislav Gorsky
+`Copyright © 2020 Vladislav Gorsky`
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -76,4 +74,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.`
+SOFTWARE.
