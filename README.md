@@ -6,10 +6,10 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 
 ## My Projects
 
-| Title & Link | Language | Description |
-| ------------ | :--------: | ----------- |
-| [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them |
-| [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod |
+| Repo Link | Language | Short description | README Link |
+| ------------ | :--------: | ----------- | :---: |
+| [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them | [`README`](https://vladg24yt.github.io/projects/EN/Fibonacci%20Sequence%20Calculator) |
+| [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [`README`](https://vladg24yt.github.io/projects/EN/Game%20Of%20Life) |
 
 ## My Finished Translations
 
