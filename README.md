@@ -5,15 +5,15 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 
 ## My Projects
 | Title & Link | Language | Description |
-| ------------ | -------- | ----------- |
+| ----------------------------- | ---- | ----------------------------------------------------------------------------------- |
 | [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them |
 | [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod |
 
 ## My Finished Translations
 | App | Language | Link and additional info |
-| --- | -------- | ------------------------ |
-| <img align="center" alt="Modelbench" src="https://raw.githubusercontent.com/Nimikita/Modelbench/master/options/windows/icons/icon.ico" width="50" height="50">**<p align="center">Modelbench</p>** | `Russian` | [Russian translation PR](https://github.com/Nimikita/Modelbench/pull/1)
-| <img align="center" alt="Sketchware" src="https://cs5-1.4pda.to/13741018.png" width="50" height="50">**<p align="center">Sketchware</p>** | `Russian` | Top #2 as of June 2020, but requires total recreation due to several skipped major app updates, so no link is provided |
+| ---------- | -------- | -------------------------------------------------------------------------------------------------- |
+| ![**Modelbench**](https://raw.githubusercontent.com/Nimikita/Modelbench/master/options/windows/icons/icon.ico) | `Russian` | [Russian translation PR](https://github.com/Nimikita/Modelbench/pull/1)
+| ![**Sketchware**](https://cs5-1.4pda.to/13741018.png) | `Russian` | Top #2 as of June 2020, but requires total recreation due to several skipped major app updates, so no link is provided |
 
 # Contacts
 - [ВКонтакте](https://vk.com/vladg24yt)
