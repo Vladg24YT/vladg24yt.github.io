@@ -16,7 +16,7 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 | App | Language | Link and additional info |
 | :---: | :--------: | ------------------------ |
 | <img align="center" alt="Modelbench" src="https://raw.githubusercontent.com/Nimikita/Modelbench/master/options/windows/icons/icon.ico" width="50" height="50"><b>Modelbench</b> | `Russian` | [Russian translation PR](https://github.com/Nimikita/Modelbench/pull/1)
-| <img align="center" alt="Sketchware" src="https://cs5-1.4pda.to/13741018.png" width="50" height="50"><b>Sketchware</b> | `Russian` | Top #2 as of June 2020, but requires total recreation due to several skipped major app updates, so no link is provided |
+| <img align="center" alt="Sketchware" src="https://raw.githubusercontent.com/sketchware/sketchware.github.io/master/img/logo.png" width="50" height="50"><b>Sketchware</b> | `Russian` | Top #2 as of June 2020, but requires total recreation due to several skipped major app updates, so no link is provided |
 
 # Contacts
 
