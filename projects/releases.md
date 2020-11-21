@@ -4,7 +4,7 @@ This page contains different projects of mine, that have at least one release.
 
 
 | Table of Contents |
-| :-- |
+| :-------------------------------------------- |
 | 1. Fibonacci Calculator |
 | 2. Conway's Game of Life (OpenComputers port) |
 
@@ -33,4 +33,4 @@ A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod.
 
 
 | Site Navigation | [Return to main page](https://vladg24yt.github.io/) |
-| --- | --- |
+| --------------- | --------------------------------------------------- |
