@@ -1,6 +1,8 @@
 # Releases
 
 This page contains different projects of mine, that have at least one release.
+
+
 | Table of Contents |
 | :-- |
 | 1. Fibonacci Calculator |
@@ -28,6 +30,7 @@ A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod.
 - Language: `Lua`
 
 **Repository link:** https://github.com/Vladg24YT/Game-Of-Life
+
 
 | Site Navigation | [Return to main page](https://vladg24yt.github.io/) |
 | --- | --- |
