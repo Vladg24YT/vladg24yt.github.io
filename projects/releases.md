@@ -4,11 +4,11 @@ This page contains different projects of mine, that have at least one release.
 
 
 | Table of Contents |
-| :-------------------------------------------- |
-| 1. Fibonacci Calculator |
+| :--------------------------------------------- |
+| 1. Fibonacci Sequence Calculator |
 | 2. Conway's Game of Life (OpenComputers port) |
 
-## Fibonacci Calculator
+## Fibonacci Sequence Calculator
 
 **Description**
 This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them.
@@ -33,4 +33,4 @@ A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod.
 
 
 | Site Navigation | [Return to main page](https://vladg24yt.github.io/) |
-| --------------- | --------------------------------------------------- |
+| --------------- | -------------------- |
