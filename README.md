@@ -10,13 +10,14 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 | ------------ | :--------: | ----------- | :---: |
 | [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them | [`README`](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator/blob/master/README.md) |
 | [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [`README`](https://vladg24yt.github.io/Game-Of-Life) |
+| [OCLIDE](https://github.com/Vladg24YT/Oclide) | `Java` | An OpenComputers-orientated Lua IDE for Windows. (Public Alpha Testing) | [`README`](https://vladg24yt.github.io/Oclide/) |
 
 ## My Finished Translations
 
-| App | Language | Link and additional info |
-| :---: | :--------: | ------------------------ |
-| <img align="center" alt="Modelbench" src="https://raw.githubusercontent.com/Nimikita/Modelbench/master/options/windows/icons/icon.ico" width="50" height="50"><b>Modelbench</b> | `Russian` | [Russian translation PR](https://github.com/Nimikita/Modelbench/pull/1)
-| <img align="center" alt="Sketchware" src="https://raw.githubusercontent.com/sketchware/sketchware.github.io/master/img/logo.png" width="50" height="50"><b>Sketchware</b> | `Russian` | Top #2 as of June 2020, but requires total recreation due to several skipped major app updates, so no link is provided |
+| App | Language | Last app version | Link and additional info |
+| :---: | :--------: | :----------------: | ------------------------ |
+| <img align="center" alt="Modelbench" src="https://raw.githubusercontent.com/Nimikita/Modelbench/master/options/windows/icons/icon.ico" width="50" height="50"><b>Modelbench</b> | `Russian` | **`1.0.1`** | [Russian translation PR](https://github.com/Nimikita/Modelbench/pull/1)
+| <img align="center" alt="Sketchware" src="https://raw.githubusercontent.com/sketchware/sketchware.github.io/master/img/logo.png" width="50" height="50"><b>Sketchware</b> | `Russian` | `<unspecified>` | Top #2 as of June 2020, but requires total recreation due to several skipped major app updates, so no link is provided |
 
 # Contacts
 
