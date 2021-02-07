@@ -1,5 +1,7 @@
 - name: Home
   link: /
+- name: Actual site
+  link: /readme.html
 - name: About
   link: /about.html
 - name: Blog
