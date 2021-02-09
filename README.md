@@ -12,9 +12,10 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 
 | Repo Link | Language | Short description | README Link |
 | ------------ | :--------: | ----------- | :---: |
-| [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them | [`README`](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator/blob/master/README.md) |
-| [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [`README`](https://vladg24yt.github.io/Game-Of-Life) |
-| [OCLIDE](https://github.com/Vladg24YT/Oclide) | `Java` | An OpenComputers-orientated Lua IDE for Windows. (Public Alpha Testing) | [`README`](https://vladg24yt.github.io/Oclide/) |
+| [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them | [`README` file](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator/blob/master/README.md) |
+| [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [About Page](https://vladg24yt.github.io/Game-Of-Life) |
+| [OCLIDE](https://github.com/Vladg24YT/Oclide) | `Java` | An OpenComputers-orientated Lua IDE for Windows. (Public Alpha Testing) | [About Page](https://vladg24yt.github.io/Oclide/) |
+| [Ocelot Brain Java wiki](https://github.com/Vladg24YT/Ocelot-Java-Wiki) | `Markdown` | A mini-wiki on how to use Ocelot Brain within Java code | [About Page](https://vladg24yt.github.io/Ocelot-Java-Wiki/index) |
 
 ## My Finished Translations
 
