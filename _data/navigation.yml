@@ -1,10 +1,10 @@
-- name: Home
-  link: /
-- name: Actual site
-  link: /README.html
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+#- name: Home
+#  link: /
+#- name: Actual site
+#  link: /README.html
+#- name: About
+#  link: /about.html
+#- name: Blog
+#  link: /blog.html
+#- name: Staff
+#  link: /staff.html
