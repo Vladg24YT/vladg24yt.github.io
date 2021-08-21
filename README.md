@@ -10,8 +10,9 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 | --- | :----: | --- | :---: |
 | [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them | [`README` file](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator/blob/master/README.md) |
 | [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [About Page](https://vladg24yt.github.io/Game-Of-Life) |
-| [OCLIDE](https://github.com/Vladg24YT/Oclide) | `Java` | An OpenComputers-orientated Lua IDE for Windows. (Public Alpha Testing) | [About Page](https://vladg24yt.github.io/Oclide/) |
-| [Ocelot Brain Java wiki](https://github.com/Vladg24YT/Ocelot-Java-Wiki) | `Markdown` | A mini-wiki on how to use Ocelot Brain within Java code | [About Page](https://vladg24yt.github.io/Ocelot-Java-Wiki/index) |
+| [OCLIDE](https://github.com/Vladg24YT/Oclide) | `Java` | An OpenComputers-orientated Lua IDE for Windows. (Public Alpha Testing) | [`README` file](https://github.com/Vladg24YT/OCLIDE/blob/master/README.md) |
+| [Ocelot Brain Java wiki](https://github.com/Vladg24YT/Ocelot-Java-Wiki) | `Markdown` | A mini-wiki on how to use Ocelot Brain within Java code | [Main Page](https://vladg24yt.github.io/Ocelot-Java-Wiki/en/index) |
+| [Sigma Highlighter](https://github.com/Vladg24YT/Sigma-Highlighter) | `CSS` | A Sigma-9-based WikiDot theme for the SCP-RU wiki which gives Sigma-9 a Black highlighter look without completely rewriting the CSS code of the page. It also serves as a 'bridge' between Sigma-9 and BHL-based themes. | [About page](https://vladg24yt.github.io/Sigma-Highlighter) |
 
 ## My Finished Translations
 
