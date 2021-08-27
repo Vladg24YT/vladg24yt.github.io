@@ -49,8 +49,7 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
   <h3>Certificate of Completion</h3>
   <b>JavaScript Tutorial</b> online course  
   <i>Sololearn, issued 22 June 2018</i>
-  
-</details>
+</details>  
 
 # Contacts
 
