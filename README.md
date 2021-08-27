@@ -29,26 +29,26 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 <details>
   <summary>View entire list (by subjective importance)</summary>  
   
-  ### Diploma of the profession of a worker, the position of an employee
-  **Computer operator** professional education program 
-  *State Budgetary Professional Educational Institution of the City of Moscow «College of Hospitality and Management Industry No. 23», issued 24 April 2020**  
+  <h3>Diploma of the profession of a worker, the position of an employee</h3>
+  <b>Computer operator</b> professional education program 
+  <i>State Budgetary Professional Educational Institution of the City of Moscow «College of Hospitality and Management Industry No. 23», issued 24 April 2020</i>  
 
-  ### Certificate of Completion
-  **Pre-Intermediate (A2)** online course  
-  *Englex online english language school, 2019*  
-  Mark: **B**
+  <h3>Certificate of Completion</h3
+  <b>Pre-Intermediate (A2)<b> online course  
+  <i>Englex online english language school, 2019</i>  
+  Mark: <b>B</b>
   
-  ### Certificate of Completion
-  **Java Tutorial** online course  
-  *Sololearn, issued 10 July 2017*
+  <h3>Certificate of Completion</h3>
+  <b>Java Tutorial</b> online course  
+  <i>Sololearn, issued 10 July 2017</i>
   
-  ### Certificate of Completion
-  **C++ Tutorial** online course  
-  *Sololearn, issued 22 June 2018*
+  <h3>Certificate of Completion</h3>
+  <b>C++ Tutorial</b> online course  
+  <i>Sololearn, issued 22 June 2018</i>
   
-  ### Certificate of Completion
-  **JavaScript Tutorial** online course  
-  *Sololearn, issued 22 June 2018*
+  <h3>Certificate of Completion</h3>
+  <b>JavaScript Tutorial</b> online course  
+  <i>Sololearn, issued 22 June 2018</i>
   
 </details>
 
