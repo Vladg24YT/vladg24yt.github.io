@@ -1,6 +1,6 @@
 # About
 
-Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a beginner self-taught coder in Java and Lua. I'm writing either development-related Java apps or Lua programs for OpenComputers. Sometimes I translate apps.
+Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a beginner self-taught coder in Java and Lua. I'm writing either development-related Java apps or Lua programs for OpenComputers. Sometimes I translate apps.
 
 [![Vladg24YT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladg24YT&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
