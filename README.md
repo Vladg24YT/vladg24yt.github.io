@@ -24,6 +24,21 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 ## My Gists
 * [Ocelot Brain demo in Java 8](https://gist.github.com/Vladg24YT/dcbb1ed68658122f21e8edcf32f0db6d)
 
+## Certificates and stuff
+#### Certificate of Completion
+**Pre-Intermediate (A2)** online course  
+*Englex online english language school, 2019*  
+Mark: **B**
+#### Certificate of Completion
+**Java Tutorial** online course  
+*Sololearn, issued 10 July 2017*
+#### Certificate of Completion
+**C++ Tutorial** online course  
+*Sololearn, issued 22 June 2018*
+#### Certificate of Completion
+**JavaScript Tutorial** online course  
+*Sololearn, issued 22 June 2018*
+
 # Contacts
 
 - [ВКонтакте](https://vk.com/vladg24yt)
