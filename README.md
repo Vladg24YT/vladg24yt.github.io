@@ -24,7 +24,8 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 ## My Gists
 * [Ocelot Brain demo in Java 8](https://gist.github.com/Vladg24YT/dcbb1ed68658122f21e8edcf32f0db6d)
 
-## Certificates and stuff
+## Certificates and stuff  
+
 <details>
   <summary>View entire list (by subjective importance)</summary>  
   
