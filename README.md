@@ -26,7 +26,7 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
 
 ## Certificates and stuff
 <details>
-  <summary>View entire list (by subjective importance)</summary>
+  <summary>View entire list (by subjective importance)</summary>  
   
   ### Diploma of the profession of a worker, the position of an employee
   **Computer operator** professional education program 
