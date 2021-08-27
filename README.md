@@ -34,7 +34,7 @@ Hi, I'm Vladislav Gorsky, also known as Vlad The Mountain or Vladg24YT. I'm a be
   <i>State Budgetary Professional Educational Institution of the City of Moscow «College of Hospitality and Management Industry No. 23», issued 24 April 2020</i>  
 
   <h3>Certificate of Completion</h3>
-  <b>Pre-Intermediate (A2)<b> online course  
+  <b>Pre-Intermediate (A2)</b> online course  
   <i>Englex online english language school, 2019</i>  
   Mark: <b>B</b>
   
