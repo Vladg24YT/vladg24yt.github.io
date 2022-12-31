@@ -17,7 +17,7 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 ## Translations
 
 | App | Language | Last app version | Link and additional info |
-| :---: | :----: | :---: | --- |
+| :---: | :----: | :---: | ----- |
 | <img align="center" alt="Modelbench" src="https://raw.githubusercontent.com/Nimikita/Modelbench/master/options/windows/icons/icon.ico" width="50" height="50"><b>Modelbench</b> | `Russian` | **`1.0.1`** | [Russian translation PR](https://github.com/Nimikita/Modelbench/pull/1) |
 | <img align="center" alt="Sketchware" src="https://raw.githubusercontent.com/sketchware/sketchware.github.io/master/img/logo.png" width="50" height="50"><b>Sketchware</b> | `Russian` | `<unspecified>` | Top #2 as of June 2020, but requires total recreation due to several skipped major app updates, so no link is provided |
 
@@ -30,9 +30,10 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 * [The Bottom Of The Void Вики](http://voidexp.fandom.com/ru)
 * [r/TheBottomOfTheVoid](https://www.reddit.com/r/TheBottomOfTheVoid/)
 
-## Projects I contributed to
+## Projects I contributed to  
+
 | Project | Info |
-| --- | --- |
+| ----- | ----- |
 | <img align="center" alt="VoidExp Wiki" src="https://static.wikia.nocookie.net/voidexp/images/e/e6/Site-logo.png" width="75" height="75"> <b>The Bottom of the Void Wiki</b> | Contributor and admin of the Wiki |
 | <img align="center" alt="Rosepad" src="https://github.com/RosepadMC/RosepadMC.github.io/raw/master/img/rosepad.png" width="75" height="75"> <b>RosepadMC</b> | Contributed to [Rosepad](https://github.com/RosepadMC/Rosepad) |
 | <img align="center" alt="Wii.Guide" src="https://rc24.xyz/images/logo_small.png" width="75" height="75"> <b>Wii Guide</b> | Contributed to Russian translation on [Crowdin](https://crowdin.com/project/wii-guide) |
