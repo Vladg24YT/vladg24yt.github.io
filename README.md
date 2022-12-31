@@ -9,7 +9,7 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 | Repo Link | Language | Short description | README Link |
 | --- | :----: | --- | :---: |
 | [The LilyBukkit Project](https://github.com/LilyBukkit) | `Java` | Server cores for Minecraft Alpha 1.0.16 versions that implement the Bukkit API | [About page](https://lilybukkit.github.io) |
-| [Ocelot Brain Java wiki](https://github.com/Vladg24YT/Ocelot-Java-Wiki) | `Markdown` | A mini-wiki on how to use Ocelot Brain within Java code | [Main Page](https://vladg24yt.github.io/Ocelot-Java-Wiki/en/index) |
+| [Ocelot Brain Java wiki](https://github.com/Vladg24YT/Ocelot-Java-Wiki) | `Markdown` | A mini-documentation on how to use Ocelot Brain within Java code | [Main Page](https://vladg24yt.github.io/Ocelot-Java-Wiki/en/index) |
 | [OCLIDE](https://github.com/OCLIDE-Modules) | `Java` | An OpenComputers-orientated Lua IDE for Windows. (Public Alpha Testing) | [`README` file](https://github.com/OCLIDE-Modules/OCLIDE/blob/master/README.md) |
 | [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [About Page](https://vladg24yt.github.io/Game-Of-Life) |
 | [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them | [`README` file](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator/blob/master/README.md) |
@@ -27,6 +27,7 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 
 ## Other projects
 * AlphaVer Wiki [EN](https://alphaver.fandom.com)/[RU](https://alphaver.fandom.com/ru)
+* The Bottom Of The Void Wiki [EN](http://voidexp.fandom.com)/[RU](http://voidexp.fandom.com/ru)
 
 ## Certificates and stuff  
 
@@ -38,8 +39,8 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
   <i>State Budgetary Professional Educational Institution of the City of Moscow «College of Hospitality and Management Industry No. 23», issued 24 April 2020</i>  <br>
 
   <h3>Certificate of Completion</h3>
-  <b>Pre-Intermediate (A2)</b> online course<br>
-  <i>Englex online english language school, 2019</i><br>
+  <b>Advanced (C1)</b> online course<br>
+  <i>Englex online english language school, 2021</i><br>
   Mark: <b>B</b><br>
 
   <h3>Certificate of Completion</h3>
@@ -57,8 +58,6 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 
 # Contacts
 
-- [ВКонтакте](https://vk.com/vladg24yt)
-- [ВКонтакте (группа)](https://vk.com/ru_vtm_app)
-- [DeviantArt](https://www.deviantart.com/vladg24yt)
+- [VK](https://vk.com/vladg24yt)
 - [Steam](https://steamcommunity.com/id/vladg24yt)
-- Discord Tag: `VladG24#7800`
+- Discord: `VladG24#7800`
