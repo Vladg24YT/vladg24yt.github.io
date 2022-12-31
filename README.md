@@ -33,11 +33,12 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 ## Projects I contributed to  
 
 | Project | Info |
-| ----- | ----- |
+| ------- | ---- |
 | <img align="center" alt="VoidExp Wiki" src="https://static.wikia.nocookie.net/voidexp/images/e/e6/Site-logo.png" width="75" height="75"> <b>The Bottom of the Void Wiki</b> | Contributor and admin of the Wiki |
 | <img align="center" alt="Rosepad" src="https://github.com/RosepadMC/RosepadMC.github.io/raw/master/img/rosepad.png" width="75" height="75"> <b>RosepadMC</b> | Contributed to [Rosepad](https://github.com/RosepadMC/Rosepad) |
 | <img align="center" alt="Wii.Guide" src="https://rc24.xyz/images/logo_small.png" width="75" height="75"> <b>Wii Guide</b> | Contributed to Russian translation on [Crowdin](https://crowdin.com/project/wii-guide) |
-| <img align="center" alt="SCP Foundation Russian branch" src="https://scpfoundation.net/-/static/images/scp-logo.png" width="75" height="75"> <b>SCP-RU</b> | Translated several `The Wanderers' Library` tales |
+| <img align="center" alt="SCP Foundation Russian branch" src="https://scpfoundation.net/-/static/images/scp-logo.png" width="75" height="75"> <b>SCP-RU</b> | Translated several `The Wanderers' Library` tales |  
+
 ## Certificates 
 
 <details>
