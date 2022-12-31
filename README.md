@@ -26,7 +26,7 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 
 ## Other stuff
 * AlphaVer Wiki [EN](https://alphaver.fandom.com)/[RU](https://alphaver.fandom.com/ru)
-* [Alphaver Wiki Discord | AWD](https://discord.gg/negeU6qvBE)
+* [Alphaver Wiki Discord](https://discord.gg/negeU6qvBE)
 * [The Bottom Of The Void Вики](http://voidexp.fandom.com/ru)
 * [r/TheBottomOfTheVoid](https://www.reddit.com/r/TheBottomOfTheVoid/)
 
