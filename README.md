@@ -1,6 +1,6 @@
 # About
 
-Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a beginner self-taught coder in Java, Lua, C++. I also know a bit of C, Python, C# and JavaScript. Sometimes I translate apps.
+Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a beginner self-taught coder in Java, Lua, C++, JavaScript and TypeScript. I also know a bit of C and Python. Sometimes I translate apps.
 
 [![Vladg24YT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladg24YT&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,7 +14,7 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 | [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [About Page](https://vladg24yt.github.io/Game-Of-Life) |
 | [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them | [`README` file](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator/blob/master/README.md) |
 
-## Translations
+## My Translations
 
 | App | Language | Last app version | Link and additional info |
 | :---: | :----: | :---: | ----- |
@@ -24,8 +24,9 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 ## My Gists
 * [Ocelot Brain demo in Java 8](https://gist.github.com/Vladg24YT/dcbb1ed68658122f21e8edcf32f0db6d)
 
-## Other stuff
-* AlphaVer Wiki [EN](https://alphaver.fandom.com)/[RU](https://alphaver.fandom.com/ru)
+## Other projects I created
+* [AlphaVer Wiki](https://alphaver.fandom.com)
+* [АльфаВер Вики](https://alphaver.fandom.com/ru)
 * [Alphaver Wiki Discord](https://discord.gg/negeU6qvBE)
 * [The Bottom Of The Void Вики](http://voidexp.fandom.com/ru)
 * [r/TheBottomOfTheVoid](https://www.reddit.com/r/TheBottomOfTheVoid/)
