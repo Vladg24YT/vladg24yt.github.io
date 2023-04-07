@@ -35,10 +35,12 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 
 | Project | Info |
 | ------- | ---- |
+| <img align="center" alt="AWD Modathon 2023" src="https://media.discordapp.net/attachments/1092867827641356288/1093563689203937290/awdmodathon1_v5.png" width="150" height="75"> <b>AWD's Modathon 2023</b> | Co-organiser of the event |
 | <img align="center" alt="VoidExp Wiki" src="https://static.wikia.nocookie.net/voidexp/images/e/e6/Site-logo.png" width="75" height="75"> <b>The Bottom of the Void Wiki</b> | Contributor and admin of the Wiki |
 | <img align="center" alt="Rosepad" src="https://github.com/RosepadMC/RosepadMC.github.io/raw/master/img/rosepad.png" width="75" height="75"> <b>RosepadMC</b> | Contributed to [Rosepad](https://github.com/RosepadMC/Rosepad) |
 | <img align="center" alt="Wii.Guide" src="https://rc24.xyz/images/logo_small.png" width="75" height="75"> <b>Wii Guide</b> | Contributed to Russian translation on [Crowdin](https://crowdin.com/project/wii-guide) |
 | <img align="center" alt="SCP Foundation Russian branch" src="https://scpfoundation.net/-/static/images/scp-logo.png" width="75" height="75"> <b>SCP-RU</b> | Translated several `The Wanderers' Library` tales |  
+| <img align="center" alt="Tardis Legacy Mod Wiki" src="https://static.wikia.nocookie.net/tardismod/images/e/e6/Site-logo.png" width="175" height="75"> <b>Tardis Mod Wiki</b> | Contributed to the Wiki |
 
 ## Certificates 
 
