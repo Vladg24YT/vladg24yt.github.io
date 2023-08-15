@@ -8,7 +8,8 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 
 | Repo Link | Language | Short description | README Link |
 | --- | :----: | --- | :---: |
-| [The LilyBukkit Project](https://github.com/LilyBukkit) | `Java` | Server cores for Minecraft Alpha 1.0.16 versions that implement the Bukkit API | [About page](https://lilybukkit.github.io) |
+| [LegacyMC](https://github.com/LegacyMCModding) | `</>` | Community dedicated to modding legacy Minecraft: Java Editions versions | [Website](https://legacymcmodding.github.io) |
+| [The LilyBukkit Project](https://github.com/LilyBukkit) | `Java` | Software for Minecraft Alpha 1.0.16.05_13 that allows compatibility with modding APIs | [About page](https://lilybukkit.github.io) |
 | [Ocelot Brain Java wiki](https://github.com/Vladg24YT/Ocelot-Java-Wiki) | `Markdown` | A mini-documentation on how to use Ocelot Brain within Java code | [Main Page](https://vladg24yt.github.io/Ocelot-Java-Wiki/en/index) |
 | [OCLIDE](https://github.com/OCLIDE-Modules) | `Java` | An OpenComputers-orientated Lua IDE for Windows. (Public Alpha Testing) | [`README` file](https://github.com/OCLIDE-Modules/OCLIDE/blob/master/README.md) |
 | [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [About Page](https://vladg24yt.github.io/Game-Of-Life) |
@@ -24,7 +25,7 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 ## My Gists
 * [Ocelot Brain demo in Java 8](https://gist.github.com/Vladg24YT/dcbb1ed68658122f21e8edcf32f0db6d)
 
-## Other projects I created
+## Other stuff I created
 * [AlphaVer Wiki](https://alphaver.fandom.com)
 * [АльфаВер Вики](https://alphaver.fandom.com/ru)
 * [Alphaver Wiki Discord](https://discord.gg/negeU6qvBE)
@@ -35,9 +36,10 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 
 | Project | Info |
 | ------- | ---- |
+| [Egg Chat](https://github.com/Vladg24YT/Egg-Chat) | A joke TCP chat made as a part of University studies |
 | <img align="center" alt="AWD Modathon 2023" src="https://media.discordapp.net/attachments/1092867827641356288/1093563689203937290/awdmodathon1_v5.png" width="150" height="75"> <b><a href="https://liminalityyy.github.io/AVModathon/">AWD's Modathon 2023</a></b> | Co-organiser of the event |
 | <img align="center" alt="VoidExp Wiki" src="https://static.wikia.nocookie.net/voidexp/images/e/e6/Site-logo.png" width="75" height="75"> <b><a href="https://voidexp.fandom.com/">The Bottom of the Void Wiki</a></b> | Contributor and admin of the Wiki |
-| <img align="center" alt="Rosepad" src="https://github.com/RosepadMC/RosepadMC.github.io/raw/master/img/rosepad.png" width="75" height="75"> <b><a href="https://rosepadmc.github.io/">RosepadMC</a></b> | Contributed to [Rosepad](https://github.com/RosepadMC/Rosepad) |
+| <img align="center" alt="Rosepad" src="https://github.com/RosepadMC/RosepadMC.github.io/raw/master/img/rosepad.png" width="75" height="75"> <b><a href="https://rosepadmc.github.io/">RosepadMC</a></b> | Contributed to [Rosepad](https://github.com/RosepadMC/Rosepad) and [Rosepad Mod Library](https://github/RosepadMC/RML) |
 | <img align="center" alt="Wii.Guide" src="https://rc24.xyz/images/logo_small.png" width="75" height="75"> <b><a href="https://wii.guide/">Wii Guide</a></b> | Contributed to Russian translation on [Crowdin](https://crowdin.com/project/wii-guide) |
 | <img align="center" alt="SCP Foundation Russian branch" src="https://scpfoundation.net/-/static/images/scp-logo.png" width="75" height="75"> <b><a href="https://scpfoundation.net/">SCP-RU</a></b> | Translated several `The Wanderers' Library` tales |  
 | <img align="center" alt="Tardis Legacy Mod Wiki" src="https://static.wikia.nocookie.net/tardismod/images/e/e6/Site-logo.png" width="175" height="75"> <b><a href="https://tardismod.fandom.com/">Tardis Mod Wiki</a></b> | Contributed to the Wiki |
@@ -54,7 +56,6 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
   <h3>Certificate of Completion</h3>
   <b>Advanced (C1)</b> online course<br>
   <i>Englex online english language school, 2021</i><br>
-  Mark: <b>B</b><br>
 
   <h3>Certificate of Completion</h3>
   <b>Java Tutorial</b> online course  <br>
