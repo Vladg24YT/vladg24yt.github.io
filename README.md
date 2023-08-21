@@ -74,7 +74,7 @@ Hi, I'm Vladislav Gorskii, also known as Vlad The Mountain or Vladg24YT. I'm a b
 
 Sorted by my activity on each account.
 
-- Discord: `VladG24#7800`
+- Discord: `@vladthemountain`
 - [VK](https://vk.com/vladg24yt)
 - [Steam](https://steamcommunity.com/id/vladg24yt)
 - [MusicBrainz](https://musicbrainz.org/user/VladG24)
