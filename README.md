@@ -8,9 +8,7 @@ Hi, I'm Vladislav Gorskii, also known as VladTheMountain. I'm a beginner self-ta
 
 | Repo Link | Language | Short description | README Link |
 | --- | :----: | --- | :---: |
-| [LegacyMC](https://github.com/LegacyMCModding) | none | Community dedicated to modding legacy Minecraft: Java Editions versions. Currently abandoned | [Website](https://legacymcmodding.github.io) |
 | [The LilyBukkit Project](https://github.com/LilyBukkit) | `Java` | Software for Minecraft Alpha 1.0.16.05_13 that allows compatibility with modding APIs. Currently abandoned | [About page](https://lilybukkit.github.io) |
-| [Ocelot Brain Java wiki](https://github.com/Vladg24YT/Ocelot-Java-Wiki) | `Markdown` | A mini-documentation on how to use Ocelot Brain within Java code. Abandoned | [Main Page](https://vladg24yt.github.io/Ocelot-Java-Wiki/en/index) |
 | [OCLIDE](https://github.com/OCLIDE-Modules) | `Java` | An OpenComputers-orientated Lua IDE for Windows. Currently abandoned | [`README` file](https://github.com/OCLIDE-Modules/OCLIDE/blob/master/README.md) |
 | [Game of Life](https://github.com/Vladg24YT/Game-Of-Life) | `Lua` | A Lua implementation of Conway's Game of Life for OpenComputers Minecraft mod | [About Page](https://vladg24yt.github.io/Game-Of-Life) |
 | [Fibonacci Sequence calculator](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator) | `C++` | This one was created for a school project. It counts the first 93 numbers of the sequence and allows to do basic manipulations with them | [`README` file](https://github.com/Vladg24YT/Fibonacci-Sequence-calculator/blob/master/README.md) |
@@ -19,29 +17,31 @@ Hi, I'm Vladislav Gorskii, also known as VladTheMountain. I'm a beginner self-ta
 * [Ocelot Brain demo in Java 8](https://gist.github.com/Vladg24YT/dcbb1ed68658122f21e8edcf32f0db6d)
 
 ## Other stuff I created
-* [Cave Game Archives (webseries, abandoned)](https://www.youtube.com/@cavegamearchives3538)
-* [r/TheBottomOfTheVoid (abandoned)](https://www.reddit.com/r/TheBottomOfTheVoid/)
-* [Сообщество ВКонтакте "AlphaVer ARG"](https://vk.com/alphaver_arg)
+* [LegacyMC (project of a modding community)](https://legacymcmodding.github.io) *(abandoned)*
+* [Cave Game Archives (webseries)](https://www.youtube.com/@cavegamearchives3538) *(abandoned)*
+* [r/TheBottomOfTheVoid](https://www.reddit.com/r/TheBottomOfTheVoid/) *(abandoned)*
+* [VK community "AlphaVer ARG"](https://vk.com/alphaver_arg)
 * [Alphaver Wiki Discord](https://discord.gg/negeU6qvBE)
-* [АльфаВер Вики (abandoned due to OG wiki migration to Miraheze)](https://alphaver.fandom.com/ru)
+* [AlphaVer Wiki RU](https://alphaver.fandom.com/ru) *(abandoned due to OG wiki's migration to Miraheze)*
 * [AlphaVer Wiki](https://alphaver.miraheze.org)
-* [Сообщество ВКонтакте "Библиотека Странников"](https://vk.com/the_wanderers_library)
+* [VK Community "Библиотека Странников"](https://vk.com/the_wanderers_library)
+* [Ocelot Brain Java wiki](https://vladg24yt.github.io/Ocelot-Java-Wiki/en/index) *(abandoned)*
 
 ## Projects I contributed to  
 
 | Project | Info |
 | ------- | ---- |
 | *Untitled project* | **Under NDA** |
-| **[AlphaVer Speedrun Board](https://github.com/AlphaverSpeedrunning)** | Speedrunning scene moderator |
+| [AlphaVer Speedrun Board](https://alphaverspeedrunning.github.io) | Speedrunning scene moderator |
 | *Untitled project* | **Under NDA** |
-| **[Egg Chat](https://github.com/Vladg24YT/Egg-Chat)** | A joke Qt5-based TCP chat made as a part of University studies |
-| **[Alphaver Wiki Discord's Modathon 2023](https://liminalityyy.github.io/AVModathon/)** | Co-organiser of the event |
-| <img align="center" alt="VoidExp Wiki" src="https://static.wikia.nocookie.net/voidexp/images/e/e6/Site-logo.png" width="75" height="75"> <b><a href="https://tbotv.miraheze.org/">The Bottom of the Void Wiki</a></b> | Wiki Contributor, ex-admin |
-| <img align="center" alt="Rosepad" src="https://github.com/RosepadMC/RosepadMC.github.io/raw/master/img/rosepad.png" width="75" height="75"> <b><a href="https://rosepadmc.github.io/">RosepadMC</a></b> | Contributed to [Rosepad](https://github.com/RosepadMC/Rosepad) and [Rosepad Mod Library](https://github/RosepadMC/RML) |
-| <b><a href="https://github.com/NexTre-Dev/alphaver">AlphaVer GitHub repository</a></b> | Contributed to the documentation |
-| <img align="center" alt="Wii.Guide" src="https://rc24.xyz/images/logo_small.png" width="75" height="75"> <b><a href="https://wii.guide/">Wii Guide</a></b> | Contributed to Russian translation on [Crowdin](https://crowdin.com/project/wii-guide) |
-| <img align="center" alt="SCP Foundation Russian branch" src="https://scpfoundation.net/-/static/images/scp-logo.png" width="75" height="75"> <b><a href="https://scpfoundation.net/">SCP-RU</a></b> | Translated several [`The Wanderers' Library`](http://wanderers-library.wikidot.com/) entries |  
-| <img align="center" alt="Tardis Legacy Mod Wiki" src="https://static.wikia.nocookie.net/tardismod/images/e/e6/Site-logo.png" width="175" height="75"> <b><a href="https://tardismod.fandom.com/">Tardis Mod Wiki</a></b> | Contributed to the Wiki |
+| [Egg Chat](https://github.com/Vladg24YT/Egg-Chat) | A joke Qt5-based TCP chat made as a part of University studies |
+| [Alphaver Wiki Discord's Modathon 2023](https://liminalityyy.github.io/AVModathon) | Co-organiser of the event |
+| [The Bottom of the Void Wiki](https://tbotv.miraheze.org) | Wiki contributor, ex-admin |
+| [RosepadMC](https://rosepadmc.github.io) | Contributed to [Rosepad](https://github.com/RosepadMC/Rosepad) and [Rosepad Mod Library](https://github/RosepadMC/RML) |
+| [AlphaVer GitHub repository](https://github.com/NexTre-Dev/alphaver) | Contributed to the documentation |
+| [Wii Guide](https://wii.guide) | Contributed to Russian translation on [Crowdin](https://crowdin.com/project/wii-guide) |
+| [SCP Foundation Russian Branch](https://scpfoundation.net) | Translated several [The Wanderers' Library](http://wanderers-library.wikidot.com) entries |  
+| [Tardis Mod Wikia](https://tardismod.fandom.com) | Contributed to the wiki |
 
 ## Certificates 
 
