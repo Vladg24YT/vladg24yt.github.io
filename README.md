@@ -32,9 +32,10 @@ Hi, I'm Vladislav Gorskii, also known as VladTheMountain. I'm a beginner self-ta
 | Project | Info |
 | ------- | ---- |
 | *Untitled project* | **Under NDA** |
+| **[AlphaVer Speedrun Board](https://github.com/AlphaverSpeedrunning)** | Speedrunning scene moderator |
 | *Untitled project* | **Under NDA** |
-| [Egg Chat](https://github.com/Vladg24YT/Egg-Chat) | A joke Qt5-based TCP chat made as a part of University studies |
-| <b><a href="https://liminalityyy.github.io/AVModathon/">Alphaver Wiki Discord's Modathon 2023</a></b> | Co-organiser of the event |
+| **[Egg Chat](https://github.com/Vladg24YT/Egg-Chat)** | A joke Qt5-based TCP chat made as a part of University studies |
+| **[Alphaver Wiki Discord's Modathon 2023](https://liminalityyy.github.io/AVModathon/)** | Co-organiser of the event |
 | <img align="center" alt="VoidExp Wiki" src="https://static.wikia.nocookie.net/voidexp/images/e/e6/Site-logo.png" width="75" height="75"> <b><a href="https://tbotv.miraheze.org/">The Bottom of the Void Wiki</a></b> | Wiki Contributor, ex-admin |
 | <img align="center" alt="Rosepad" src="https://github.com/RosepadMC/RosepadMC.github.io/raw/master/img/rosepad.png" width="75" height="75"> <b><a href="https://rosepadmc.github.io/">RosepadMC</a></b> | Contributed to [Rosepad](https://github.com/RosepadMC/Rosepad) and [Rosepad Mod Library](https://github/RosepadMC/RML) |
 | <b><a href="https://github.com/NexTre-Dev/alphaver">AlphaVer GitHub repository</a></b> | Contributed to the documentation |
